@@ -1,0 +1,13 @@
+{
+  "name": "ecommerce-project",
+  "version": "1.0.0",
+  "description": "E-commerce site with admin panel",
+  "main": "server.js",
+  "scripts": {
+    "start": "server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.15"
+  }
+}
